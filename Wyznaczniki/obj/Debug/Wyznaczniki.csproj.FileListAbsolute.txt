@@ -1,0 +1,9 @@
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\bin\Debug\Wyznaczniki.exe.config
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\bin\Debug\Wyznaczniki.exe
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\bin\Debug\Wyznaczniki.pdb
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.Form1.resources
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.Properties.Resources.resources
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.exe
+c:\users\pawel\documents\visual studio 2015\Projects\Wyznaczniki\Wyznaczniki\obj\Debug\Wyznaczniki.pdb
